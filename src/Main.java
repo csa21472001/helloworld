@@ -6,5 +6,5 @@ public class Main {
         System.out.println("Hello");
 
     }
-    //lokijhjikljhn,kiughgh
+    //lokijhjikljhn,kiughg
 }
